@@ -6,7 +6,7 @@ This is a classic **Snake Game** implemented in Java using the Swing library. Th
 
 ## Features
 
-- **Snake Movement:** Control the snake using the arrow keys.
+- **Snake Movement:** Control the snake using the arrow keys
 - **Dynamic Gameplay:** The snake grows longer with each food item consumed.
 - **Collision Detection:** The game ends if the snake collides with itself or the edges of the board.
 - **Score Tracking:** Displays the score based on the length of the snake.
